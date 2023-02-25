@@ -1,0 +1,31 @@
+button{
+    background-color:black;
+    color:white;
+    margin:10px 20px;
+}
+h1{
+    background-color:black;
+    color:white;
+    margin:0px 0px !important;
+    padding:10px 20px;
+    font-size: 15px;
+    
+}
+*{
+    margin:0px;
+}
+
+table{
+    border-collapse: collapse;
+    width:95%;
+    margin:7px 20px;
+}
+td,th{
+    border:1px solid black;
+    text-align: center;
+    padding:8px;
+}
+    .inp{
+        outline: none;
+        border:none;
+    }
